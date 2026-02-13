@@ -25,7 +25,7 @@ export function Footer() {
             
             <div className="flex space-x-4">
               <a 
-                href="https://wa.me/+911234567890"
+                href="https://wa.me/+919353395096"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-400 hover:to-emerald-500 text-white p-4 rounded-full transition-all duration-300 transform hover:scale-110 shadow-lg hover:shadow-green-400/50"
