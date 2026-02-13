@@ -27,12 +27,12 @@ export function Header() {
             <a href="#categories" className="text-white hover:text-yellow-300 transition-colors font-semibold text-lg hover:scale-105 transform duration-200">
               🎨 Categories
             </a>
-            <a href="#about" className="text-white hover:text-yellow-300 transition-colors font-semibold text-lg hover:scale-105 transform duration-200">
+            {/* <a href="#about" className="text-white hover:text-yellow-300 transition-colors font-semibold text-lg hover:scale-105 transform duration-200">
               💝 About
             </a>
             <a href="#contact" className="text-white hover:text-yellow-300 transition-colors font-semibold text-lg hover:scale-105 transform duration-200">
               📞 Contact
-            </a>
+            </a> */}
           </nav>
 
           <div className="flex items-center space-x-4">
