@@ -18,12 +18,12 @@ export function Categories() {
       imageUrl: "https://images.unsplash.com/photo-1487070183336-b863922373d4?w=400&h=300&fit=crop",
       color: "from-purple-400 to-pink-500"
     },
-    { 
-      name: "🤍 White Elegance", 
-      description: "Pure white flowers for special moments", 
-      imageUrl: "https://images.unsplash.com/photo-1520763185298-1b434c919102?w=400&h=300&fit=crop",
-      color: "from-gray-300 to-blue-400"
-    },
+    // { 
+    //   name: "🤍 White Elegance", 
+    //   description: "Pure white flowers for special moments", 
+    //   imageUrl: "https://images.unsplash.com/photo-1520763185298-1b434c919102?w=400&h=300&fit=crop",
+    //   color: "from-gray-300 to-blue-400"
+    // },
     { 
       name: "🍫 Choco Bouquets", 
       description: "Complete your gift with chocolate delights", 

@@ -96,7 +96,7 @@ export function Footer() {
               </li>
               <li className="flex items-center space-x-3">
                 <span className="text-blue-400">📧</span>
-                <span>sumanthmanjunath2295@gmail.com</span>
+                <span>gowdagod373</span>
               </li>
               <li className="flex items-center space-x-3">
                 <span className="text-pink-400">🏪</span>
